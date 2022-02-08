@@ -22,5 +22,5 @@ Sistem ini menyediakan layanan untuk mendaftar antrean bagi pengasuh hewan yang 
 ![Screenshot Tasks B2](public/ss/Screenshot_12.png)
 
 Manual Book :
-[a link]((public/ss/ManualBookSIBA.png)
+https://github.com/agungadi/SiBA-Klinik-Hewan/files/8020587/Manual.Book_SIBA.pdf
 
